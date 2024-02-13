@@ -1,0 +1,45 @@
+_repo: Spenser-s-Faerie-Queene-Vol-2-of-3-b-Books-IV-VII_72698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spenser, Edmund
+    aliases:
+    - Spencer, Edmund
+    - Immerito
+    - Spenser, Edmond
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Spenser
+  editor:
+    agent_name: Smith, J. C. (James Cruickshanks)
+    alias: Smith, James Cruickshanks
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '55882'
+    url: http://www.gutenberg.org/2009/agents/55882
+description: ''
+gutenberg_issued: '2024-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72698'
+language: en
+pgterms:marc905: 20210419065921spenser
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aOxford :$bClarendon Press, $c1909, reprint 1964.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcsh 'Virtues -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: 'Spenser''s Faerie Queene, Vol. 2 (of 3) : $b Books IV-VII'
+url: http://www.gutenberg.org/ebooks/72698
